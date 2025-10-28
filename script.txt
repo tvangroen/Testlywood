@@ -1,0 +1,75 @@
+{
+    "isOutbound": false,
+    "isInbound": false,
+    "portFrom": {
+        "code": "T",
+        "name": "Terschelling",
+        "data": null
+    },
+    "portTo": {
+        "code": "H",
+        "name": "Harlingen",
+        "data": null
+    },
+    "searchDate": "2025-11-02T01:00:00+01:00",
+    "departures": [
+               
+        {
+            "code": "KW021120252000",
+            "departureDateTime": "2025-11-02T20:00:00+01:00",
+            "departureTime": "8:00 PM",
+            "arrivalDateTime": "2025-11-02T20:50:00+01:00",
+            "arrivalTime": "8:50 PM",
+            "duration": 50,
+            "vesselName": "Sneldienst",
+            "vessel": "KW",
+            "portFrom": {
+                "code": "T",
+                "name": "Terschelling"
+            },
+            "portTo": {
+                "code": "H",
+                "name": "Harlingen"
+            },
+            "persons": null,
+            "meters": null,
+            "accessibilityLevel": "Full",
+            "estimatedDepartureDateTime": "2025-11-02T20:00:00+01:00",
+            "estimatedArrivalDateTime": "2025-11-02T20:50:00+01:00",
+            "status": "OPEN"
+        }
+        
+    ]
+}Titel: One Flew Over de ISO Requirements
+Subtitel: Part 9: The Rise of the Safety Minion
+Script
+INT. GRU’S LAB – DAG
+Gru staat voor een groep van negen Minions, elk met een naamkaartje: Functional Suitability, Performance Efficiency, Compatibility, Interaction Capability, Reliability, Security, Maintainability, Flexibility en Safety.
+GRU:
+“Luitjes! Vandaag bouwen we... de ultieme jetpack! Maar onthoud — ieder van jullie heeft z’n eigen taak. ISO25010, mensen! Eh... minions!”
+De Minions juichen.
+Functional Suitability test knoppen met precisie.
+Performance Efficiency draait razendsnel aan turbines.
+Compatibility zorgt dat alles op elk stopcontact past.
+Interaction Capability leert de jetpack ‘Hola!’ zeggen.
+Reliability, met oranje spraytan en een rare haarlok, roept:
+“Deze jetpack is the best, the most reliable jetpack, believe me!”
+Hij vergeet de schroeven vast te draaien.
+Security bouwt een laserslot, terwijl Maintainability poetst en documenteert.
+Flexibility maakt de riemen rekbaar: “Voor alle maten banaan!”
+Tot slot: Safety, die verveeld op een banaan knabbelt.
+SAFETY (lachend):
+“Safety schmafety! Wat kan er misgaan?”
+Hij verwisselt per ongeluk de brandstof met bananensap, monteert de remknop achterstevoren en... pakt een buks.
+CUT TO:
+De jetpack stijgt op perfect!
+Gru glimlacht trots.
+Dan richt Safety zijn buks op de lucht:
+“Testfase!” BOEM!
+De jetpack ontploft in een fontein van rook, veren en banaantjes.
+GRU (met zucht):
+“En daarom, jongens... is Safety geen grap.”
+De Minions steken verkoold hun duimen op.
+Een bord verschijnt: ISO25010  Neem ze alsjeblieft alle 9 mee.
+FADE OUT
+Een laatste “BANANA!” klinkt in de verte.
